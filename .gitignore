@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Local environment secrets (API keys)
+.env
+.env.local
+
+# Heavy local video render outputs (rendered in cloud or kept local)
+projects/*/renders/*.mp4
+output/
+*.log
+.DS_Store
+Thumbs.db

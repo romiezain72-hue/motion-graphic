@@ -1,0 +1,29 @@
+{
+  "projectId": "_template",
+  "hookFormula": "visual_paradox_claim",
+  "estimatedDurationSec": 30,
+  "scenes": [
+    {
+      "sceneId": "scene_01_hook",
+      "stepNumber": "01",
+      "stepTitle": "HOOK UTAMA",
+      "role": "hook",
+      "voText": "Kalimat pembuka tiga detik pertama yang langsung menghantam rasa penasaran penonton.",
+      "semanticChunks": [
+        "Kalimat pembuka",
+        "tiga detik pertama",
+        "yang langsung menghantam",
+        "rasa penasaran penonton."
+      ],
+      "displayHeadline": "HEADLINE UTAMA SCENE 01",
+      "pillBadge": "STEP 01 // HOOK",
+      "heroStat": { "number": "100%", "subLabel": "SUB-LABEL METRIK" },
+      "calloutLabel": "label ringkas",
+      "highlightWords": ["tiga", "detik", "menghantam", "penasaran"],
+      "sfxCues": [
+        { "type": "whoosh", "triggerOnWord": "Kalimat" },
+        { "type": "highlight", "triggerOnWord": "menghantam" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "projectId": "001_cat-righting-reflex",
+  "hookFormula": "visual_paradox_claim",
+  "estimatedDurationSec": 30,
+  "scenes": [
+    {
+      "sceneId": "scene_01_hook",
+      "stepNumber": "01",
+      "stepTitle": "REFLEKS 0,3 DETIK",
+      "role": "hook",
+      "voText": "Jatuhkan kucing dalam posisi terbalik, dan hanya dalam nol koma tiga detik kakinya sudah siap menginjak tanah.",
+      "semanticChunks": [
+        "Jatuhkan kucing",
+        "dalam posisi terbalik,",
+        "dan hanya dalam",
+        "nol koma tiga detik",
+        "kakinya sudah siap",
+        "menginjak tanah."
+      ],
+      "displayHeadline": "PUTAR 180° DALAM 0,3 DETIK",
+      "pillBadge": "STEP 01 // HOOK FISIKA",
+      "heroStat": {
+        "number": "0,3s",
+        "subLabel": "ROTASI UDARA 180°"
+      },
+      "calloutLabel": "Cat Righting Reflex",
+      "highlightWords": ["terbalik", "nol", "tiga", "detik", "menginjak"],
+      "sfxCues": [
+        { "type": "whoosh", "triggerOnWord": "Jatuhkan" },
+        { "type": "impact", "triggerOnWord": "detik" }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "stepNumber": "02",
+      "stepTitle": "PARADOKS MOMENTUM NOL",
+      "role": "open_loop",
+      "voText": "Padahal di udara tidak ada pijakan untuk menolak. Menurut hukum fisika, total momentum sudutnya wajib tetap nol.",
+      "semanticChunks": [
+        "Padahal di udara",
+        "tidak ada pijakan",
+        "untuk menolak.",
+        "Menurut hukum fisika,",
+        "total momentum sudutnya",
+        "wajib tetap nol."
+      ],
+      "displayHeadline": "TANPA PIJAKAN = MUSTAHIL?",
+      "pillBadge": "STEP 02 // PARADOKS FISIKA",
+      "heroStat": {
+        "number": "L = 0",
+        "subLabel": "KEKEKALAN MOMENTUM SUDUT"
+      },
+      "calloutLabel": "Zero External Torque",
+      "highlightWords": ["udara", "pijakan", "fisika", "momentum", "nol"],
+      "sfxCues": [
+        { "type": "whoosh", "triggerOnWord": "Padahal" },
+        { "type": "highlight", "triggerOnWord": "nol" }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "stepNumber": "03",
+      "stepTitle": "TRIK 2 POROS INERSIA",
+      "role": "mechanism",
+      "voText": "Rahasianya, tulang belakang kucing bekerja seperti dua poros terpisah. Kaki depan ditekuk rapat agar berputar cepat, sementara kaki belakang direntangkan.",
+      "semanticChunks": [
+        "Rahasianya, tulang",
+        "belakang kucing bekerja",
+        "seperti dua poros terpisah.",
+        "Kaki depan",
+        "ditekuk rapat",
+        "agar berputar cepat,",
+        "sementara kaki belakang direntangkan."
+      ],
+      "displayHeadline": "TEKUK DEPAN, RENTANG BELAKANG",
+      "pillBadge": "STEP 03 // BEND & TWIST",
+      "heroStat": {
+        "number": "+180°",
+        "subLabel": "POROS DEPAN vs BELAKANG -30°"
+      },
+      "calloutLabel": "Split-Axis Moment of Inertia",
+      "highlightWords": ["tulang", "dua", "poros", "ditekuk", "cepat", "direntangkan"],
+      "sfxCues": [
+        { "type": "whoosh", "triggerOnWord": "Rahasianya" },
+        { "type": "click", "triggerOnWord": "ditekuk" },
+        { "type": "highlight", "triggerOnWord": "cepat" }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "stepNumber": "04",
+      "stepTitle": "KUNCI PENDARATAN 4 KAKI",
+      "role": "payoff",
+      "voText": "Lalu gantian kaki depan diluruskan untuk mengerem, dan kaki belakang ditekuk menyusul. Tanpa melanggar fisika, kucing mendarat sempurna.",
+      "semanticChunks": [
+        "Lalu gantian",
+        "kaki depan diluruskan",
+        "untuk mengerem,",
+        "dan kaki belakang",
+        "ditekuk menyusul.",
+        "Tanpa melanggar fisika,",
+        "kucing mendarat sempurna."
+      ],
+      "displayHeadline": "TUKAR POROS, MENDARAT MULUS",
+      "pillBadge": "STEP 04 // PAYOFF FISIKA",
+      "heroStat": {
+        "number": "4 KAKI",
+        "subLabel": "ZERO NET ANGULAR MOMENTUM"
+      },
+      "calloutLabel": "180° Touchdown Lock",
+      "highlightWords": ["diluruskan", "mengerem", "ditekuk", "fisika", "sempurna"],
+      "sfxCues": [
+        { "type": "click", "triggerOnWord": "diluruskan" },
+        { "type": "impact", "triggerOnWord": "sempurna" }
+      ]
+    }
+  ]
+}

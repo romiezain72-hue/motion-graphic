@@ -1,0 +1,95 @@
+name: 🎬 Remotion Cloud Render Engine (1080x1920 @ 60fps)
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Slug proyek di folder projects/ (kosongkan untuk memakai active_project.json)"
+        required: false
+        default: ""
+      render_mode:
+        description: "Mode Render: preview (3 detik / 180 frames) atau full (Video Penuh 60fps)"
+        required: true
+        default: "full"
+        type: choice
+        options:
+          - preview
+          - full
+      concurrency:
+        description: "Jumlah thread paralel Chromium di Cloud Runner (default: 4)"
+        required: false
+        default: "4"
+
+jobs:
+  cloud-render:
+    name: Render Reel in GitHub Cloud
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: 1. Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 2. Setup Node.js 20 & Cache npm
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: 3. Setup Python 3.10 & FFmpeg
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: 4. Install System Dependencies (FFmpeg & Chromium Headless Libs)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2t64 || sudo apt-get install -y ffmpeg
+          pip install edge-tts
+
+      - name: 5. Install Node Packages
+        run: npm ci
+
+      - name: 6. Resolve Target Project & Run QA + TypeScript Gate
+        id: resolve
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          PROJECT_SLUG="${{ inputs.project }}"
+          if [ -z "$PROJECT_SLUG" ]; then
+            PROJECT_SLUG=$(python3 -c "import json; print(json.load(open('active_project.json'))['activeProject'])")
+          fi
+          echo "slug=$PROJECT_SLUG" >> $GITHUB_OUTPUT
+          echo "Target Project: $PROJECT_SLUG"
+          if [ ! -f "projects/$PROJECT_SLUG/media/vo_master.mp3" ]; then
+            python3 scripts/tts_engine.py --project "$PROJECT_SLUG"
+          else
+            mkdir -p "public/projects/$PROJECT_SLUG/media"
+            cp "projects/$PROJECT_SLUG/media/vo_master.mp3" "public/projects/$PROJECT_SLUG/media/vo_master.mp3"
+          fi
+          python3 scripts/build_reel.py --project "$PROJECT_SLUG" --render none
+
+      - name: 7. Render Video via Remotion Cloud Runner (Multi-Core Angle GL)
+        run: |
+          SLUG="${{ steps.resolve.outputs.slug }}"
+          MODE="${{ inputs.render_mode }}"
+          CONC="${{ inputs.concurrency }}"
+          mkdir -p "projects/$SLUG/renders"
+          if [ "$MODE" = "preview" ]; then
+            OUT_PATH="projects/$SLUG/renders/${SLUG}_cloud_preview_3s.mp4"
+            npx remotion render src/index.ts ReelsComposition "$OUT_PATH" --frames=0-179 --concurrency="$CONC" --gl=angle
+          else
+            OUT_PATH="projects/$SLUG/renders/${SLUG}_cloud_full.mp4"
+            npx remotion render src/index.ts ReelsComposition "$OUT_PATH" --concurrency="$CONC" --gl=angle
+          fi
+          ls -lh "projects/$SLUG/renders/"
+
+      - name: 8. Upload Rendered MP4 & QA Report as Downloadable Cloud Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: reel-render-${{ steps.resolve.outputs.slug }}-${{ inputs.render_mode }}
+          path: |
+            projects/${{ steps.resolve.outputs.slug }}/renders/*.mp4
+            projects/${{ steps.resolve.outputs.slug }}/qa_report.md
+          retention-days: 14

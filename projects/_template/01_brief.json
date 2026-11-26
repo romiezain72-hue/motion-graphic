@@ -1,0 +1,25 @@
+{
+  "projectId": "_template",
+  "topic": "Tulis ide/topik video di sini",
+  "selectedAngle": "Sudut pandang kontras atau paradoks utama yang menahan retensi penonton",
+  "targetAudience": {
+    "persona": "Penonton Reels Indonesia (18-35 tahun)",
+    "painPoints": [
+      "Bosan dengan penjelasan teori yang lambat dan kaku"
+    ],
+    "retentionTriggers": [
+      "0.0s (Hook 3s): Klaim paradoks/kontras langsung di Frame 0",
+      "15.0s (Open Loop 1): Pertanyaan pemicu rasa penasaran menuju mekanisme inti",
+      "30.0s (Payoff / Plot Twist): Kesimpulan tak terduga yang memuaskan rasa ingin tahu"
+    ]
+  },
+  "hookOptions": [
+    {
+      "id": "hook_1",
+      "formula": "visual_paradox_claim",
+      "text": "Kalimat hook tajam 3 detik pertama tanpa basa-basi.",
+      "isSelected": true
+    }
+  ],
+  "keyFacts": []
+}

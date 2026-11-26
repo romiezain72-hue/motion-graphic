@@ -1,0 +1,12 @@
+{
+  "motion-graphic-session-context": {
+    "enabled": true,
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "python -c \"import pathlib,runpy; p=pathlib.Path('scripts/hook_session_context.py'); runpy.run_path(str(p if p.exists() else pathlib.Path('../scripts/hook_session_context.py')), run_name='__main__')\"",
+        "timeout": 10
+      }
+    ]
+  }
+}

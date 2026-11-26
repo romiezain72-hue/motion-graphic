@@ -1,0 +1,21 @@
+{
+  "id": "001",
+  "slug": "001_cat-righting-reflex",
+  "title": "Refleks 0,3 Detik: Fisika Kucing Jatuh Terbalik",
+  "format": "standard_reels_30s",
+  "archetype": "archetype_c_blueprint_canvas",
+  "status": "rendered",
+  "version": "v1",
+  "createdAt": "2026-11-25T23:30:05+07:00",
+  "updatedAt": "2026-11-25T23:34:30+07:00",
+  "checkpoints": {
+    "01_brief": "done",
+    "02_script": "done",
+    "03_audio": "done",
+    "04_storyboard": "done",
+    "05_theme": "done",
+    "06_qa": "pass",
+    "07_render": "v1_rendered"
+  },
+  "latestRender": "projects/001_cat-righting-reflex/renders/001_cat-righting-reflex_v1.mp4"
+}

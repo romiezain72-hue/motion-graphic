@@ -1,0 +1,36 @@
+{
+  "name": "reels-motion-engine",
+  "version": "2.0.0",
+  "description": "Automated Multi-Project Instagram Reels Motion Graphics Production System (Remotion 9:16 @ 60fps)",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "studio": "remotion studio",
+    "compositions": "remotion compositions src/index.ts",
+    "render": "remotion render src/index.ts ReelsComposition projects/002_drone-pitch-physics/renders/002_drone-pitch-physics_v2.mp4 --port=4568",
+    "typecheck": "tsc --noEmit",
+    "tts": "python scripts/tts_engine.py",
+    "qa": "python scripts/qa_auditor.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "@remotion/bundler": "4.0.242",
+    "@remotion/captions": "4.0.242",
+    "@remotion/cli": "4.0.242",
+    "@remotion/google-fonts": "4.0.242",
+    "@remotion/renderer": "4.0.242",
+    "@remotion/three": "4.0.242",
+    "@remotion/transitions": "4.0.242",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.242",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.170.0",
+    "typescript": "^5.6.3"
+  }
+}

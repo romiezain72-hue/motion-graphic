@@ -1,0 +1,30 @@
+{
+  "activeArchetype": "archetype_b_dark_engineering_ui",
+  "paletteName": "obsidian_crimson_cyan_telemetry",
+  "colors": {
+    "bgPrimary": "#09090B",
+    "bgSecondary": "#12131A",
+    "surfaceAccent": "#1E293B",
+    "surfaceCard": "#14151C",
+    "textPrimary": "#F8FAFC",
+    "textSecondary": "#94A3B8",
+    "accentHighlight": "#EF4444",
+    "accentSecondary": "#38BDF8",
+    "accentBadge": "#FACC15",
+    "accentBadgeText": "#09090B",
+    "extrudeShadow": "#030305"
+  },
+  "typography": {
+    "displayFont": "Plus Jakarta Sans",
+    "serifFont": "Playfair Display",
+    "monoFont": "JetBrains Mono",
+    "heroStatSizePx": 116,
+    "headlineSizePx": 58,
+    "captionSizePx": 50
+  },
+  "textures": {
+    "paperGrainOpacity": 0.06,
+    "layerDropShadow": "0 14px 32px rgba(0, 0, 0, 0.65)",
+    "dashedStrokeWidth": 2.5
+  }
+}

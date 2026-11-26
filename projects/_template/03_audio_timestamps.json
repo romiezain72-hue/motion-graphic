@@ -1,0 +1,28 @@
+{
+  "projectId": "_template",
+  "fps": 60,
+  "ttsProvider": "edge-tts",
+  "voiceId": "id-ID-ArdiNeural",
+  "masterAudioPath": "audio/vo_master.mp3",
+  "totalDurationMs": 3000.0,
+  "totalDurationFrames": 180,
+  "captions": [],
+  "words": [],
+  "captionChunks": [],
+  "sceneTimings": [
+    {
+      "sceneId": "scene_01_hook",
+      "startMs": 0.0,
+      "endMs": 3000.0,
+      "startFrame": 0,
+      "endFrame": 180,
+      "durationFrames": 180
+    }
+  ],
+  "sfxEvents": [],
+  "bgm": {
+    "trackPath": "assets/global/bgm/curiosity_editorial.wav",
+    "normalVolume": 0.22,
+    "duckedVolume": 0.06
+  }
+}

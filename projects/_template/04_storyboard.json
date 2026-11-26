@@ -1,0 +1,37 @@
+{
+  "projectId": "_template",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "transitionDurationFrames": 14,
+  "captionSafeZone": {
+    "y": 1420
+  },
+  "scenes": [
+    {
+      "sceneId": "scene_01_hook",
+      "startFrame": 0,
+      "durationFrames": 180,
+      "backdropPreset": "dark_engineering_grid",
+      "cameraMotion": {
+        "type": "fast_punch_zoom",
+        "fromScale": 1.0,
+        "toScale": 1.06,
+        "fromX": 0,
+        "toX": 0,
+        "fromY": 0,
+        "toY": -14,
+        "parallaxStrength": 0.45
+      },
+      "headline": {
+        "text": "HEADLINE UTAMA SCENE 01",
+        "x": 540,
+        "y": 415,
+        "enterAtRelativeFrame": 0
+      },
+      "elements": []
+    }
+  ]
+}

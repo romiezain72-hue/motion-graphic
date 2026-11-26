@@ -1,0 +1,19 @@
+{
+  "id": "000",
+  "slug": "_template",
+  "title": "Template Proyek Baru (Ganti dengan Judul Topik)",
+  "format": "standard_reels_30s",
+  "archetype": "archetype_b_dark_engineering_ui",
+  "status": "draft",
+  "version": "v1",
+  "createdAt": "2026-11-25T07:35:00+07:00",
+  "updatedAt": "2026-11-25T07:35:00+07:00",
+  "checkpoints": {
+    "01_brief": "pending",
+    "02_script": "pending",
+    "03_audio": "pending",
+    "04_storyboard": "pending",
+    "05_theme": "ready",
+    "06_qa": "pending"
+  }
+}

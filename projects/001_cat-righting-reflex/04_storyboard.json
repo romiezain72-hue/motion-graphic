@@ -1,0 +1,472 @@
+{
+  "projectId": "001_cat-righting-reflex",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "transitionDurationFrames": 14,
+  "captionSafeZone": {
+    "y": 1420
+  },
+  "scenes": [
+    {
+      "sceneId": "scene_01_hook",
+      "startFrame": 0,
+      "durationFrames": 303,
+      "backdropPreset": "cobalt_blueprint",
+      "visualBeatFrames": [
+        0,
+        12,
+        45,
+        110,
+        180,
+        250
+      ],
+      "cameraMotion": {
+        "type": "fast_punch_zoom",
+        "fromScale": 1.0,
+        "toScale": 1.07,
+        "fromX": 0,
+        "toX": 0,
+        "fromY": 0,
+        "toY": -16,
+        "parallaxStrength": 0.48
+      },
+      "headline": {
+        "text": "PUTAR 180° DALAM 0,3 DETIK",
+        "x": 540,
+        "y": 410,
+        "enterAtRelativeFrame": 0
+      },
+      "elements": [
+        {
+          "component": "TerminalHeader",
+          "enterAtRelativeFrame": 0,
+          "props": {
+            "handle": "@biomechanics.lab",
+            "eyebrow": "BEDAH FISIKA // CAT RIGHTING REFLEX",
+            "telemetryTag": "HIGH-SPEED 60FPS",
+            "x": 540,
+            "y": 175
+          }
+        },
+        {
+          "component": "StepProgressPills",
+          "enterAtRelativeFrame": 12,
+          "props": {
+            "activeStep": 1,
+            "stepTitle": "STEP 01 // HOOK FISIKA",
+            "x": 540,
+            "y": 285
+          }
+        },
+        {
+          "component": "HeroStatCallout",
+          "enterAtRelativeFrame": 45,
+          "props": {
+            "value": "0.3s",
+            "subLabel": "WAKTU PUTAR 180° DI UDARA",
+            "animateCountUp": true,
+            "x": 540,
+            "y": 690
+          }
+        },
+        {
+          "component": "BoundingBoxFrame",
+          "enterAtRelativeFrame": 110,
+          "props": {
+            "title": "INVERTED DROP DETECTED",
+            "highlightTag": "180° -> 0°",
+            "subtitle": "Vestibular System Lock in 30ms",
+            "dimensionLabel": "740 × 320 px",
+            "width": 740,
+            "height": 320,
+            "x": 540,
+            "y": 980
+          }
+        },
+        {
+          "component": "FloatingStickerCard",
+          "enterAtRelativeFrame": 180,
+          "props": {
+            "badge": "REFLEX LOCK",
+            "label": "0,3 DETIK SIAP MENDARAT",
+            "subtext": "Tanpa bantuan tumpuan awal",
+            "accentColor": "#A3E635",
+            "tiltDeg": -3.0,
+            "x": 540,
+            "y": 1210
+          }
+        },
+        {
+          "component": "HighlightBadge",
+          "enterAtRelativeFrame": 250,
+          "props": {
+            "text": "ROTASI INSTAN 180 DERAJAT",
+            "openLoopText": "TAPI BAGAIMANA TANPA PIJAKAN?",
+            "openLoopAtRelativeFrame": 120,
+            "x": 540,
+            "y": 1290
+          }
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "startFrame": 390,
+      "durationFrames": 344,
+      "backdropPreset": "cobalt_blueprint",
+      "visualBeatFrames": [
+        0,
+        12,
+        45,
+        115,
+        185,
+        255,
+        315
+      ],
+      "cameraMotion": {
+        "type": "dramatic_push",
+        "fromScale": 1.0,
+        "toScale": 1.08,
+        "fromX": 0,
+        "toX": -10,
+        "fromY": 0,
+        "toY": -18,
+        "parallaxStrength": 0.5
+      },
+      "headline": {
+        "text": "TANPA PIJAKAN = MUSTAHIL?",
+        "x": 540,
+        "y": 410,
+        "enterAtRelativeFrame": 0
+      },
+      "elements": [
+        {
+          "component": "TerminalHeader",
+          "enterAtRelativeFrame": 0,
+          "props": {
+            "handle": "@biomechanics.lab",
+            "eyebrow": "HUKUM KEKEKALAN // MOMENTUM SUDUT",
+            "telemetryTag": "TORQUE = 0 N·m",
+            "x": 540,
+            "y": 175
+          }
+        },
+        {
+          "component": "StepProgressPills",
+          "enterAtRelativeFrame": 12,
+          "props": {
+            "activeStep": 2,
+            "stepTitle": "STEP 02 // PARADOKS FISIKA",
+            "x": 540,
+            "y": 285
+          }
+        },
+        {
+          "component": "BoundingBoxFrame",
+          "enterAtRelativeFrame": 45,
+          "props": {
+            "title": "CONSERVATION OF ANGULAR MOMENTUM",
+            "highlightTag": "L = I1·ω1 + I2·ω2 = 0",
+            "subtitle": "Zero External Torque in Freefall",
+            "dimensionLabel": "760 × 360 px",
+            "width": 760,
+            "height": 360,
+            "x": 540,
+            "y": 720
+          }
+        },
+        {
+          "component": "TelemetryHUD",
+          "enterAtRelativeFrame": 115,
+          "props": {
+            "x": 540,
+            "y": 1050,
+            "cards": [
+              {
+                "label": "TORSI LUAR",
+                "value": "0 N·m",
+                "accent": "rose"
+              },
+              {
+                "label": "MOMENTUM TOTAL",
+                "value": "L = 0",
+                "accent": "cyan"
+              },
+              {
+                "label": "PIJAKAN UDARA",
+                "value": "NIHIL",
+                "accent": "amber"
+              }
+            ]
+          }
+        },
+        {
+          "component": "FloatingStickerCard",
+          "enterAtRelativeFrame": 185,
+          "props": {
+            "badge": "PARADOKS FISIKA",
+            "label": "MUSTAHIL PUTAR KAKU",
+            "subtext": "Benda kaku tak bisa memutar dirinya sendiri",
+            "accentColor": "#FACC15",
+            "tiltDeg": 2.8,
+            "x": 540,
+            "y": 1210
+          }
+        },
+        {
+          "component": "HighlightBadge",
+          "enterAtRelativeFrame": 255,
+          "props": {
+            "text": "TOTAL MOMENTUM WAJIB TETAP NOL",
+            "openLoopText": "RAHASIANYA ADA DI TULANG BELAKANG!",
+            "openLoopAtRelativeFrame": 154,
+            "x": 540,
+            "y": 1290
+          }
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "startFrame": 810,
+      "durationFrames": 450,
+      "backdropPreset": "cobalt_blueprint",
+      "visualBeatFrames": [
+        0,
+        12,
+        45,
+        120,
+        200,
+        280,
+        350,
+        420
+      ],
+      "cameraMotion": {
+        "type": "dynamic_pan_zoom",
+        "fromScale": 1.0,
+        "toScale": 1.08,
+        "fromX": -8,
+        "toX": 8,
+        "fromY": 0,
+        "toY": -16,
+        "parallaxStrength": 0.52
+      },
+      "headline": {
+        "text": "TEKUK DEPAN, RENTANG BELAKANG",
+        "x": 540,
+        "y": 410,
+        "enterAtRelativeFrame": 0
+      },
+      "elements": [
+        {
+          "component": "TerminalHeader",
+          "enterAtRelativeFrame": 0,
+          "props": {
+            "handle": "@biomechanics.lab",
+            "eyebrow": "MEKANIKA BEND & TWIST // 2 POROS",
+            "telemetryTag": "I = m·r² SPLIT",
+            "x": 540,
+            "y": 175
+          }
+        },
+        {
+          "component": "StepProgressPills",
+          "enterAtRelativeFrame": 12,
+          "props": {
+            "activeStep": 3,
+            "stepTitle": "STEP 03 // BEND & TWIST",
+            "x": 540,
+            "y": 285
+          }
+        },
+        {
+          "component": "PhysicsDiagramCanvas",
+          "enterAtRelativeFrame": 45,
+          "props": {
+            "mode": "vector_split",
+            "fromPitchDeg": -25,
+            "toPitchDeg": 25,
+            "rearRpm": 180,
+            "frontRpm": 30,
+            "showVectors": true,
+            "showRpmBars": true,
+            "showDrag": true,
+            "showGimbalCone": true,
+            "x": 540,
+            "y": 740
+          }
+        },
+        {
+          "component": "TelemetryHUD",
+          "enterAtRelativeFrame": 120,
+          "props": {
+            "x": 540,
+            "y": 1080,
+            "cards": [
+              {
+                "label": "POROS DEPAN (TEKUK)",
+                "value": "+180°",
+                "accent": "cyan"
+              },
+              {
+                "label": "POROS BELAKANG (RENTANG)",
+                "value": "-30°",
+                "accent": "amber"
+              },
+              {
+                "label": "TOTAL L1 + L2",
+                "value": "0.00",
+                "accent": "emerald"
+              }
+            ]
+          }
+        },
+        {
+          "component": "FloatingStickerCard",
+          "enterAtRelativeFrame": 200,
+          "props": {
+            "badge": "INERSIA KECIL (r↓)",
+            "label": "KAKI DEPAN DITEKUK RAPAT",
+            "subtext": "Radius kecil = putaran depan jauh lebih cepat",
+            "accentColor": "#38BDF8",
+            "tiltDeg": -2.5,
+            "x": 540,
+            "y": 1210
+          }
+        },
+        {
+          "component": "HighlightBadge",
+          "enterAtRelativeFrame": 280,
+          "props": {
+            "text": "2 POROS BERPUTAR BERLAWANAN ARAH",
+            "openLoopText": "LALU BAGAIMANA CARA MENGEREMNYA?",
+            "openLoopAtRelativeFrame": 260,
+            "x": 540,
+            "y": 1290
+          }
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "startFrame": 1350,
+      "durationFrames": 435,
+      "backdropPreset": "cobalt_blueprint",
+      "visualBeatFrames": [
+        0,
+        12,
+        45,
+        115,
+        190,
+        265,
+        325
+      ],
+      "cameraMotion": {
+        "type": "fast_punch_zoom",
+        "fromScale": 1.02,
+        "toScale": 1.08,
+        "fromX": 0,
+        "toX": 0,
+        "fromY": -8,
+        "toY": -20,
+        "parallaxStrength": 0.48
+      },
+      "headline": {
+        "text": "TUKAR POROS, MENDARAT MULUS",
+        "x": 540,
+        "y": 410,
+        "enterAtRelativeFrame": 0
+      },
+      "elements": [
+        {
+          "component": "TerminalHeader",
+          "enterAtRelativeFrame": 0,
+          "props": {
+            "handle": "@biomechanics.lab",
+            "eyebrow": "FASE KEDUA // TOUCHDOWN LOCK",
+            "telemetryTag": "180° COMPLETE",
+            "x": 540,
+            "y": 175
+          }
+        },
+        {
+          "component": "StepProgressPills",
+          "enterAtRelativeFrame": 12,
+          "props": {
+            "activeStep": 4,
+            "stepTitle": "STEP 04 // PAYOFF FISIKA",
+            "x": 540,
+            "y": 285
+          }
+        },
+        {
+          "component": "BoundingBoxFrame",
+          "enterAtRelativeFrame": 45,
+          "props": {
+            "title": "PHASE 2: INERTIA SWAP & BRAKE",
+            "highlightTag": "TOUCHDOWN 4 PAWS",
+            "subtitle": "Front Legs Extend (Brake) + Rear Legs Tuck (Catch-Up)",
+            "dimensionLabel": "760 × 340 px",
+            "width": 760,
+            "height": 340,
+            "x": 540,
+            "y": 710
+          }
+        },
+        {
+          "component": "TelemetryHUD",
+          "enterAtRelativeFrame": 115,
+          "props": {
+            "x": 540,
+            "y": 1045,
+            "cards": [
+              {
+                "label": "KAKI DEPAN",
+                "value": "LURUS (REM)",
+                "accent": "emerald"
+              },
+              {
+                "label": "KAKI BELAKANG",
+                "value": "TEKUK (+180°)",
+                "accent": "cyan"
+              },
+              {
+                "label": "HUKUM FISIKA",
+                "value": "100% AMAN",
+                "accent": "amber"
+              }
+            ]
+          }
+        },
+        {
+          "component": "FloatingStickerCard",
+          "enterAtRelativeFrame": 190,
+          "props": {
+            "badge": "TOUCHDOWN 100%",
+            "label": "MENDARAT SEMPURNA 4 KAKI",
+            "subtext": "Momentum sudut tetap nol dari awal hingga akhir",
+            "accentColor": "#A3E635",
+            "tiltDeg": -2.0,
+            "x": 540,
+            "y": 1205
+          }
+        },
+        {
+          "component": "HighlightBadge",
+          "enterAtRelativeFrame": 265,
+          "props": {
+            "text": "FISIKA CERDAS DALAM 0,3 DETIK!",
+            "openLoopText": "SIMPAN & SHARE KE TEMANMU!",
+            "openLoopAtRelativeFrame": 245,
+            "x": 540,
+            "y": 1285
+          }
+        }
+      ]
+    }
+  ],
+  "totalDurationFrames": 1532
+}

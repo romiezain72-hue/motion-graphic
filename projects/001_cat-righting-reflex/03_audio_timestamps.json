@@ -1,0 +1,2170 @@
+{
+  "fps": 60,
+  "ttsProvider": "edge-tts-v2-broadcast",
+  "voiceId": "id-ID-ArdiNeural (rate=+6%, pitch=-2Hz)",
+  "masterAudioPath": "projects/001_cat-righting-reflex/media/vo_master.mp3",
+  "totalDurationMs": 25534.1,
+  "totalDurationFrames": 1532,
+  "captions": [
+    {
+      "text": "Jatuhkan",
+      "startMs": 0,
+      "endMs": 380,
+      "timestampMs": 190,
+      "confidence": 1.0
+    },
+    {
+      "text": " kucing",
+      "startMs": 380,
+      "endMs": 642,
+      "timestampMs": 511,
+      "confidence": 1.0
+    },
+    {
+      "text": " dalam",
+      "startMs": 642,
+      "endMs": 891,
+      "timestampMs": 767,
+      "confidence": 1.0
+    },
+    {
+      "text": " posisi",
+      "startMs": 891,
+      "endMs": 1243,
+      "timestampMs": 1067,
+      "confidence": 1.0
+    },
+    {
+      "text": " terbalik,",
+      "startMs": 1243,
+      "endMs": 1623,
+      "timestampMs": 1433,
+      "confidence": 1.0
+    },
+    {
+      "text": " dan",
+      "startMs": 1856,
+      "endMs": 1985,
+      "timestampMs": 1921,
+      "confidence": 1.0
+    },
+    {
+      "text": " hanya",
+      "startMs": 1985,
+      "endMs": 2229,
+      "timestampMs": 2107,
+      "confidence": 1.0
+    },
+    {
+      "text": " dalam",
+      "startMs": 2229,
+      "endMs": 2474,
+      "timestampMs": 2351,
+      "confidence": 1.0
+    },
+    {
+      "text": " nol",
+      "startMs": 2474,
+      "endMs": 2602,
+      "timestampMs": 2538,
+      "confidence": 1.0
+    },
+    {
+      "text": " koma",
+      "startMs": 2602,
+      "endMs": 2833,
+      "timestampMs": 2718,
+      "confidence": 1.0
+    },
+    {
+      "text": " tiga",
+      "startMs": 2833,
+      "endMs": 3063,
+      "timestampMs": 2948,
+      "confidence": 1.0
+    },
+    {
+      "text": " detik",
+      "startMs": 3063,
+      "endMs": 3308,
+      "timestampMs": 3186,
+      "confidence": 1.0
+    },
+    {
+      "text": " kakinya",
+      "startMs": 3308,
+      "endMs": 3667,
+      "timestampMs": 3487,
+      "confidence": 1.0
+    },
+    {
+      "text": " sudah",
+      "startMs": 3667,
+      "endMs": 3911,
+      "timestampMs": 3789,
+      "confidence": 1.0
+    },
+    {
+      "text": " siap",
+      "startMs": 3911,
+      "endMs": 4054,
+      "timestampMs": 3983,
+      "confidence": 1.0
+    },
+    {
+      "text": " menginjak",
+      "startMs": 4054,
+      "endMs": 4441,
+      "timestampMs": 4247,
+      "confidence": 1.0
+    },
+    {
+      "text": " tanah.",
+      "startMs": 4441,
+      "endMs": 4685,
+      "timestampMs": 4563,
+      "confidence": 1.0
+    },
+    {
+      "text": " Padahal",
+      "startMs": 5043,
+      "endMs": 5373,
+      "timestampMs": 5208,
+      "confidence": 1.0
+    },
+    {
+      "text": " di",
+      "startMs": 5373,
+      "endMs": 5479,
+      "timestampMs": 5426,
+      "confidence": 1.0
+    },
+    {
+      "text": " udara",
+      "startMs": 5479,
+      "endMs": 5784,
+      "timestampMs": 5631,
+      "confidence": 1.0
+    },
+    {
+      "text": " tidak",
+      "startMs": 5784,
+      "endMs": 6008,
+      "timestampMs": 5896,
+      "confidence": 1.0
+    },
+    {
+      "text": " ada",
+      "startMs": 6008,
+      "endMs": 6206,
+      "timestampMs": 6107,
+      "confidence": 1.0
+    },
+    {
+      "text": " pijakan",
+      "startMs": 6206,
+      "endMs": 6536,
+      "timestampMs": 6371,
+      "confidence": 1.0
+    },
+    {
+      "text": " untuk",
+      "startMs": 6536,
+      "endMs": 6760,
+      "timestampMs": 6648,
+      "confidence": 1.0
+    },
+    {
+      "text": " menolak.",
+      "startMs": 6760,
+      "endMs": 7090,
+      "timestampMs": 6925,
+      "confidence": 1.0
+    },
+    {
+      "text": " Menurut",
+      "startMs": 7324,
+      "endMs": 7698,
+      "timestampMs": 7511,
+      "confidence": 1.0
+    },
+    {
+      "text": " hukum",
+      "startMs": 7698,
+      "endMs": 7952,
+      "timestampMs": 7825,
+      "confidence": 1.0
+    },
+    {
+      "text": " fisika,",
+      "startMs": 7952,
+      "endMs": 8312,
+      "timestampMs": 8132,
+      "confidence": 1.0
+    },
+    {
+      "text": " total",
+      "startMs": 8544,
+      "endMs": 8831,
+      "timestampMs": 8687,
+      "confidence": 1.0
+    },
+    {
+      "text": " momentum",
+      "startMs": 8831,
+      "endMs": 9269,
+      "timestampMs": 9050,
+      "confidence": 1.0
+    },
+    {
+      "text": " sudutnya",
+      "startMs": 9269,
+      "endMs": 9708,
+      "timestampMs": 9489,
+      "confidence": 1.0
+    },
+    {
+      "text": " wajib",
+      "startMs": 9708,
+      "endMs": 9995,
+      "timestampMs": 9851,
+      "confidence": 1.0
+    },
+    {
+      "text": " tetap",
+      "startMs": 9995,
+      "endMs": 10282,
+      "timestampMs": 10138,
+      "confidence": 1.0
+    },
+    {
+      "text": " nol.",
+      "startMs": 10282,
+      "endMs": 10433,
+      "timestampMs": 10357,
+      "confidence": 1.0
+    },
+    {
+      "text": " Rahasianya,",
+      "startMs": 10791,
+      "endMs": 11438,
+      "timestampMs": 11115,
+      "confidence": 1.0
+    },
+    {
+      "text": " tulang",
+      "startMs": 11675,
+      "endMs": 11929,
+      "timestampMs": 11802,
+      "confidence": 1.0
+    },
+    {
+      "text": " belakang",
+      "startMs": 11929,
+      "endMs": 12297,
+      "timestampMs": 12113,
+      "confidence": 1.0
+    },
+    {
+      "text": " kucing",
+      "startMs": 12297,
+      "endMs": 12551,
+      "timestampMs": 12424,
+      "confidence": 1.0
+    },
+    {
+      "text": " bekerja",
+      "startMs": 12551,
+      "endMs": 12906,
+      "timestampMs": 12728,
+      "confidence": 1.0
+    },
+    {
+      "text": " seperti",
+      "startMs": 12906,
+      "endMs": 13260,
+      "timestampMs": 13083,
+      "confidence": 1.0
+    },
+    {
+      "text": " dua",
+      "startMs": 13260,
+      "endMs": 13387,
+      "timestampMs": 13324,
+      "confidence": 1.0
+    },
+    {
+      "text": " poros",
+      "startMs": 13387,
+      "endMs": 13628,
+      "timestampMs": 13508,
+      "confidence": 1.0
+    },
+    {
+      "text": " terpisah.",
+      "startMs": 13628,
+      "endMs": 13996,
+      "timestampMs": 13812,
+      "confidence": 1.0
+    },
+    {
+      "text": " Kaki",
+      "startMs": 14215,
+      "endMs": 14443,
+      "timestampMs": 14329,
+      "confidence": 1.0
+    },
+    {
+      "text": " depan",
+      "startMs": 14443,
+      "endMs": 14684,
+      "timestampMs": 14564,
+      "confidence": 1.0
+    },
+    {
+      "text": " ditekuk",
+      "startMs": 14684,
+      "endMs": 15040,
+      "timestampMs": 14862,
+      "confidence": 1.0
+    },
+    {
+      "text": " rapat",
+      "startMs": 15040,
+      "endMs": 15281,
+      "timestampMs": 15160,
+      "confidence": 1.0
+    },
+    {
+      "text": " agar",
+      "startMs": 15281,
+      "endMs": 15508,
+      "timestampMs": 15395,
+      "confidence": 1.0
+    },
+    {
+      "text": " berputar",
+      "startMs": 15508,
+      "endMs": 15877,
+      "timestampMs": 15693,
+      "confidence": 1.0
+    },
+    {
+      "text": " cepat,",
+      "startMs": 15877,
+      "endMs": 16119,
+      "timestampMs": 15998,
+      "confidence": 1.0
+    },
+    {
+      "text": " sementara",
+      "startMs": 16347,
+      "endMs": 16813,
+      "timestampMs": 16580,
+      "confidence": 1.0
+    },
+    {
+      "text": " kaki",
+      "startMs": 16813,
+      "endMs": 17040,
+      "timestampMs": 16926,
+      "confidence": 1.0
+    },
+    {
+      "text": " belakang",
+      "startMs": 17040,
+      "endMs": 17406,
+      "timestampMs": 17223,
+      "confidence": 1.0
+    },
+    {
+      "text": " direntangkan.",
+      "startMs": 17406,
+      "endMs": 17913,
+      "timestampMs": 17660,
+      "confidence": 1.0
+    },
+    {
+      "text": " Lalu",
+      "startMs": 18279,
+      "endMs": 18516,
+      "timestampMs": 18398,
+      "confidence": 1.0
+    },
+    {
+      "text": " gantian",
+      "startMs": 18516,
+      "endMs": 18796,
+      "timestampMs": 18656,
+      "confidence": 1.0
+    },
+    {
+      "text": " kaki",
+      "startMs": 18796,
+      "endMs": 19033,
+      "timestampMs": 18914,
+      "confidence": 1.0
+    },
+    {
+      "text": " depan",
+      "startMs": 19033,
+      "endMs": 19284,
+      "timestampMs": 19159,
+      "confidence": 1.0
+    },
+    {
+      "text": " diluruskan",
+      "startMs": 19284,
+      "endMs": 19787,
+      "timestampMs": 19536,
+      "confidence": 1.0
+    },
+    {
+      "text": " untuk",
+      "startMs": 19787,
+      "endMs": 20038,
+      "timestampMs": 19913,
+      "confidence": 1.0
+    },
+    {
+      "text": " mengerem,",
+      "startMs": 20038,
+      "endMs": 20422,
+      "timestampMs": 20230,
+      "confidence": 1.0
+    },
+    {
+      "text": " dan",
+      "startMs": 20653,
+      "endMs": 20790,
+      "timestampMs": 20721,
+      "confidence": 1.0
+    },
+    {
+      "text": " kaki",
+      "startMs": 20790,
+      "endMs": 21034,
+      "timestampMs": 20912,
+      "confidence": 1.0
+    },
+    {
+      "text": " belakang",
+      "startMs": 21034,
+      "endMs": 21430,
+      "timestampMs": 21232,
+      "confidence": 1.0
+    },
+    {
+      "text": " ditekuk",
+      "startMs": 21430,
+      "endMs": 21812,
+      "timestampMs": 21621,
+      "confidence": 1.0
+    },
+    {
+      "text": " menyusul.",
+      "startMs": 21812,
+      "endMs": 22208,
+      "timestampMs": 22010,
+      "confidence": 1.0
+    },
+    {
+      "text": " Tanpa",
+      "startMs": 22437,
+      "endMs": 22720,
+      "timestampMs": 22579,
+      "confidence": 1.0
+    },
+    {
+      "text": " melanggar",
+      "startMs": 22720,
+      "endMs": 23169,
+      "timestampMs": 22945,
+      "confidence": 1.0
+    },
+    {
+      "text": " fisika,",
+      "startMs": 23169,
+      "endMs": 23570,
+      "timestampMs": 23370,
+      "confidence": 1.0
+    },
+    {
+      "text": " kucing",
+      "startMs": 23803,
+      "endMs": 24077,
+      "timestampMs": 23940,
+      "confidence": 1.0
+    },
+    {
+      "text": " mendarat",
+      "startMs": 24077,
+      "endMs": 24475,
+      "timestampMs": 24276,
+      "confidence": 1.0
+    },
+    {
+      "text": " sempurna.",
+      "startMs": 24475,
+      "endMs": 24872,
+      "timestampMs": 24674,
+      "confidence": 1.0
+    }
+  ],
+  "words": [
+    {
+      "word": "Jatuhkan",
+      "sceneId": "scene_01_hook",
+      "startMs": 0.0,
+      "endMs": 379.9,
+      "startFrame": 0,
+      "endFrame": 23,
+      "isHighlighted": false
+    },
+    {
+      "word": "kucing",
+      "sceneId": "scene_01_hook",
+      "startMs": 379.9,
+      "endMs": 642.4,
+      "startFrame": 23,
+      "endFrame": 39,
+      "isHighlighted": false
+    },
+    {
+      "word": "dalam",
+      "sceneId": "scene_01_hook",
+      "startMs": 642.4,
+      "endMs": 891.0,
+      "startFrame": 39,
+      "endFrame": 53,
+      "isHighlighted": false
+    },
+    {
+      "word": "posisi",
+      "sceneId": "scene_01_hook",
+      "startMs": 891.0,
+      "endMs": 1242.9,
+      "startFrame": 53,
+      "endFrame": 75,
+      "isHighlighted": false
+    },
+    {
+      "word": "terbalik,",
+      "sceneId": "scene_01_hook",
+      "startMs": 1242.9,
+      "endMs": 1622.8,
+      "startFrame": 75,
+      "endFrame": 97,
+      "isHighlighted": true
+    },
+    {
+      "word": "dan",
+      "sceneId": "scene_01_hook",
+      "startMs": 1856.1,
+      "endMs": 1985.1,
+      "startFrame": 111,
+      "endFrame": 119,
+      "isHighlighted": false
+    },
+    {
+      "word": "hanya",
+      "sceneId": "scene_01_hook",
+      "startMs": 1985.1,
+      "endMs": 2229.3,
+      "startFrame": 119,
+      "endFrame": 134,
+      "isHighlighted": false
+    },
+    {
+      "word": "dalam",
+      "sceneId": "scene_01_hook",
+      "startMs": 2229.3,
+      "endMs": 2473.5,
+      "startFrame": 134,
+      "endFrame": 148,
+      "isHighlighted": false
+    },
+    {
+      "word": "nol",
+      "sceneId": "scene_01_hook",
+      "startMs": 2473.5,
+      "endMs": 2602.5,
+      "startFrame": 148,
+      "endFrame": 156,
+      "isHighlighted": true
+    },
+    {
+      "word": "koma",
+      "sceneId": "scene_01_hook",
+      "startMs": 2602.5,
+      "endMs": 2832.9,
+      "startFrame": 156,
+      "endFrame": 170,
+      "isHighlighted": false
+    },
+    {
+      "word": "tiga",
+      "sceneId": "scene_01_hook",
+      "startMs": 2832.9,
+      "endMs": 3063.4,
+      "startFrame": 170,
+      "endFrame": 184,
+      "isHighlighted": true
+    },
+    {
+      "word": "detik",
+      "sceneId": "scene_01_hook",
+      "startMs": 3063.4,
+      "endMs": 3307.6,
+      "startFrame": 184,
+      "endFrame": 198,
+      "isHighlighted": true
+    },
+    {
+      "word": "kakinya",
+      "sceneId": "scene_01_hook",
+      "startMs": 3307.6,
+      "endMs": 3667.1,
+      "startFrame": 198,
+      "endFrame": 220,
+      "isHighlighted": false
+    },
+    {
+      "word": "sudah",
+      "sceneId": "scene_01_hook",
+      "startMs": 3667.1,
+      "endMs": 3911.3,
+      "startFrame": 220,
+      "endFrame": 235,
+      "isHighlighted": false
+    },
+    {
+      "word": "siap",
+      "sceneId": "scene_01_hook",
+      "startMs": 3911.3,
+      "endMs": 4054.0,
+      "startFrame": 235,
+      "endFrame": 243,
+      "isHighlighted": false
+    },
+    {
+      "word": "menginjak",
+      "sceneId": "scene_01_hook",
+      "startMs": 4054.0,
+      "endMs": 4440.9,
+      "startFrame": 243,
+      "endFrame": 266,
+      "isHighlighted": true
+    },
+    {
+      "word": "tanah.",
+      "sceneId": "scene_01_hook",
+      "startMs": 4440.9,
+      "endMs": 4685.1,
+      "startFrame": 266,
+      "endFrame": 281,
+      "isHighlighted": false
+    },
+    {
+      "word": "Padahal",
+      "sceneId": "scene_02_paradox",
+      "startMs": 5043.3,
+      "endMs": 5373.1,
+      "startFrame": 303,
+      "endFrame": 322,
+      "isHighlighted": false
+    },
+    {
+      "word": "di",
+      "sceneId": "scene_02_paradox",
+      "startMs": 5373.1,
+      "endMs": 5478.9,
+      "startFrame": 322,
+      "endFrame": 329,
+      "isHighlighted": false
+    },
+    {
+      "word": "udara",
+      "sceneId": "scene_02_paradox",
+      "startMs": 5478.9,
+      "endMs": 5783.5,
+      "startFrame": 329,
+      "endFrame": 347,
+      "isHighlighted": true
+    },
+    {
+      "word": "tidak",
+      "sceneId": "scene_02_paradox",
+      "startMs": 5783.5,
+      "endMs": 6007.6,
+      "startFrame": 347,
+      "endFrame": 360,
+      "isHighlighted": false
+    },
+    {
+      "word": "ada",
+      "sceneId": "scene_02_paradox",
+      "startMs": 6007.6,
+      "endMs": 6206.5,
+      "startFrame": 360,
+      "endFrame": 372,
+      "isHighlighted": false
+    },
+    {
+      "word": "pijakan",
+      "sceneId": "scene_02_paradox",
+      "startMs": 6206.5,
+      "endMs": 6536.4,
+      "startFrame": 372,
+      "endFrame": 392,
+      "isHighlighted": true
+    },
+    {
+      "word": "untuk",
+      "sceneId": "scene_02_paradox",
+      "startMs": 6536.4,
+      "endMs": 6760.5,
+      "startFrame": 392,
+      "endFrame": 406,
+      "isHighlighted": false
+    },
+    {
+      "word": "menolak.",
+      "sceneId": "scene_02_paradox",
+      "startMs": 6760.5,
+      "endMs": 7090.3,
+      "startFrame": 406,
+      "endFrame": 425,
+      "isHighlighted": false
+    },
+    {
+      "word": "Menurut",
+      "sceneId": "scene_02_paradox",
+      "startMs": 7323.5,
+      "endMs": 7697.6,
+      "startFrame": 439,
+      "endFrame": 462,
+      "isHighlighted": false
+    },
+    {
+      "word": "hukum",
+      "sceneId": "scene_02_paradox",
+      "startMs": 7697.6,
+      "endMs": 7951.8,
+      "startFrame": 462,
+      "endFrame": 477,
+      "isHighlighted": false
+    },
+    {
+      "word": "fisika,",
+      "sceneId": "scene_02_paradox",
+      "startMs": 7951.8,
+      "endMs": 8311.7,
+      "startFrame": 477,
+      "endFrame": 499,
+      "isHighlighted": true
+    },
+    {
+      "word": "total",
+      "sceneId": "scene_02_paradox",
+      "startMs": 8544.0,
+      "endMs": 8830.9,
+      "startFrame": 513,
+      "endFrame": 530,
+      "isHighlighted": false
+    },
+    {
+      "word": "momentum",
+      "sceneId": "scene_02_paradox",
+      "startMs": 8830.9,
+      "endMs": 9269.4,
+      "startFrame": 530,
+      "endFrame": 556,
+      "isHighlighted": true
+    },
+    {
+      "word": "sudutnya",
+      "sceneId": "scene_02_paradox",
+      "startMs": 9269.4,
+      "endMs": 9707.8,
+      "startFrame": 556,
+      "endFrame": 582,
+      "isHighlighted": false
+    },
+    {
+      "word": "wajib",
+      "sceneId": "scene_02_paradox",
+      "startMs": 9707.8,
+      "endMs": 9994.7,
+      "startFrame": 582,
+      "endFrame": 600,
+      "isHighlighted": false
+    },
+    {
+      "word": "tetap",
+      "sceneId": "scene_02_paradox",
+      "startMs": 9994.7,
+      "endMs": 10281.7,
+      "startFrame": 600,
+      "endFrame": 617,
+      "isHighlighted": false
+    },
+    {
+      "word": "nol.",
+      "sceneId": "scene_02_paradox",
+      "startMs": 10281.7,
+      "endMs": 10433.2,
+      "startFrame": 617,
+      "endFrame": 626,
+      "isHighlighted": true
+    },
+    {
+      "word": "Rahasianya,",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 10791.3,
+      "endMs": 11438.4,
+      "startFrame": 647,
+      "endFrame": 686,
+      "isHighlighted": false
+    },
+    {
+      "word": "tulang",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 11674.7,
+      "endMs": 11929.0,
+      "startFrame": 700,
+      "endFrame": 716,
+      "isHighlighted": true
+    },
+    {
+      "word": "belakang",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 11929.0,
+      "endMs": 12296.9,
+      "startFrame": 716,
+      "endFrame": 738,
+      "isHighlighted": false
+    },
+    {
+      "word": "kucing",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 12296.9,
+      "endMs": 12551.2,
+      "startFrame": 738,
+      "endFrame": 753,
+      "isHighlighted": false
+    },
+    {
+      "word": "bekerja",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 12551.2,
+      "endMs": 12905.6,
+      "startFrame": 753,
+      "endFrame": 774,
+      "isHighlighted": false
+    },
+    {
+      "word": "seperti",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 12905.6,
+      "endMs": 13260.0,
+      "startFrame": 774,
+      "endFrame": 796,
+      "isHighlighted": false
+    },
+    {
+      "word": "dua",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 13260.0,
+      "endMs": 13387.1,
+      "startFrame": 796,
+      "endFrame": 803,
+      "isHighlighted": true
+    },
+    {
+      "word": "poros",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 13387.1,
+      "endMs": 13627.9,
+      "startFrame": 803,
+      "endFrame": 818,
+      "isHighlighted": true
+    },
+    {
+      "word": "terpisah.",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 13627.9,
+      "endMs": 13995.8,
+      "startFrame": 818,
+      "endFrame": 840,
+      "isHighlighted": false
+    },
+    {
+      "word": "Kaki",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 14215.2,
+      "endMs": 14442.9,
+      "startFrame": 853,
+      "endFrame": 867,
+      "isHighlighted": false
+    },
+    {
+      "word": "depan",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 14442.9,
+      "endMs": 14684.3,
+      "startFrame": 867,
+      "endFrame": 881,
+      "isHighlighted": false
+    },
+    {
+      "word": "ditekuk",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 14684.3,
+      "endMs": 15039.5,
+      "startFrame": 881,
+      "endFrame": 902,
+      "isHighlighted": true
+    },
+    {
+      "word": "rapat",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 15039.5,
+      "endMs": 15280.8,
+      "startFrame": 902,
+      "endFrame": 917,
+      "isHighlighted": false
+    },
+    {
+      "word": "agar",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 15280.8,
+      "endMs": 15508.5,
+      "startFrame": 917,
+      "endFrame": 931,
+      "isHighlighted": false
+    },
+    {
+      "word": "berputar",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 15508.5,
+      "endMs": 15877.3,
+      "startFrame": 931,
+      "endFrame": 953,
+      "isHighlighted": false
+    },
+    {
+      "word": "cepat,",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 15877.3,
+      "endMs": 16118.6,
+      "startFrame": 953,
+      "endFrame": 967,
+      "isHighlighted": true
+    },
+    {
+      "word": "sementara",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 16347.0,
+      "endMs": 16813.3,
+      "startFrame": 981,
+      "endFrame": 1009,
+      "isHighlighted": false
+    },
+    {
+      "word": "kaki",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 16813.3,
+      "endMs": 17039.7,
+      "startFrame": 1009,
+      "endFrame": 1022,
+      "isHighlighted": false
+    },
+    {
+      "word": "belakang",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 17039.7,
+      "endMs": 17406.3,
+      "startFrame": 1022,
+      "endFrame": 1044,
+      "isHighlighted": false
+    },
+    {
+      "word": "direntangkan.",
+      "sceneId": "scene_03_mechanism",
+      "startMs": 17406.3,
+      "endMs": 17913.1,
+      "startFrame": 1044,
+      "endFrame": 1075,
+      "isHighlighted": true
+    },
+    {
+      "word": "Lalu",
+      "sceneId": "scene_04_payoff",
+      "startMs": 18279.0,
+      "endMs": 18516.2,
+      "startFrame": 1097,
+      "endFrame": 1111,
+      "isHighlighted": false
+    },
+    {
+      "word": "gantian",
+      "sceneId": "scene_04_payoff",
+      "startMs": 18516.2,
+      "endMs": 18795.8,
+      "startFrame": 1111,
+      "endFrame": 1128,
+      "isHighlighted": false
+    },
+    {
+      "word": "kaki",
+      "sceneId": "scene_04_payoff",
+      "startMs": 18795.8,
+      "endMs": 19033.0,
+      "startFrame": 1128,
+      "endFrame": 1142,
+      "isHighlighted": false
+    },
+    {
+      "word": "depan",
+      "sceneId": "scene_04_payoff",
+      "startMs": 19033.0,
+      "endMs": 19284.3,
+      "startFrame": 1142,
+      "endFrame": 1157,
+      "isHighlighted": false
+    },
+    {
+      "word": "diluruskan",
+      "sceneId": "scene_04_payoff",
+      "startMs": 19284.3,
+      "endMs": 19787.0,
+      "startFrame": 1157,
+      "endFrame": 1187,
+      "isHighlighted": true
+    },
+    {
+      "word": "untuk",
+      "sceneId": "scene_04_payoff",
+      "startMs": 19787.0,
+      "endMs": 20038.3,
+      "startFrame": 1187,
+      "endFrame": 1202,
+      "isHighlighted": false
+    },
+    {
+      "word": "mengerem,",
+      "sceneId": "scene_04_payoff",
+      "startMs": 20038.3,
+      "endMs": 20422.4,
+      "startFrame": 1202,
+      "endFrame": 1225,
+      "isHighlighted": true
+    },
+    {
+      "word": "dan",
+      "sceneId": "scene_04_payoff",
+      "startMs": 20652.7,
+      "endMs": 20789.6,
+      "startFrame": 1239,
+      "endFrame": 1247,
+      "isHighlighted": false
+    },
+    {
+      "word": "kaki",
+      "sceneId": "scene_04_payoff",
+      "startMs": 20789.6,
+      "endMs": 21034.3,
+      "startFrame": 1247,
+      "endFrame": 1262,
+      "isHighlighted": false
+    },
+    {
+      "word": "belakang",
+      "sceneId": "scene_04_payoff",
+      "startMs": 21034.3,
+      "endMs": 21430.5,
+      "startFrame": 1262,
+      "endFrame": 1286,
+      "isHighlighted": false
+    },
+    {
+      "word": "ditekuk",
+      "sceneId": "scene_04_payoff",
+      "startMs": 21430.5,
+      "endMs": 21812.1,
+      "startFrame": 1286,
+      "endFrame": 1309,
+      "isHighlighted": true
+    },
+    {
+      "word": "menyusul.",
+      "sceneId": "scene_04_payoff",
+      "startMs": 21812.1,
+      "endMs": 22208.3,
+      "startFrame": 1309,
+      "endFrame": 1332,
+      "isHighlighted": false
+    },
+    {
+      "word": "Tanpa",
+      "sceneId": "scene_04_payoff",
+      "startMs": 22437.1,
+      "endMs": 22720.4,
+      "startFrame": 1346,
+      "endFrame": 1363,
+      "isHighlighted": false
+    },
+    {
+      "word": "melanggar",
+      "sceneId": "scene_04_payoff",
+      "startMs": 22720.4,
+      "endMs": 23169.3,
+      "startFrame": 1363,
+      "endFrame": 1390,
+      "isHighlighted": false
+    },
+    {
+      "word": "fisika,",
+      "sceneId": "scene_04_payoff",
+      "startMs": 23169.3,
+      "endMs": 23570.4,
+      "startFrame": 1390,
+      "endFrame": 1414,
+      "isHighlighted": true
+    },
+    {
+      "word": "kucing",
+      "sceneId": "scene_04_payoff",
+      "startMs": 23802.7,
+      "endMs": 24077.4,
+      "startFrame": 1428,
+      "endFrame": 1445,
+      "isHighlighted": false
+    },
+    {
+      "word": "mendarat",
+      "sceneId": "scene_04_payoff",
+      "startMs": 24077.4,
+      "endMs": 24474.9,
+      "startFrame": 1445,
+      "endFrame": 1468,
+      "isHighlighted": false
+    },
+    {
+      "word": "sempurna.",
+      "sceneId": "scene_04_payoff",
+      "startMs": 24474.9,
+      "endMs": 24872.3,
+      "startFrame": 1468,
+      "endFrame": 1492,
+      "isHighlighted": true
+    }
+  ],
+  "captionChunks": [
+    {
+      "sceneId": "scene_01_hook",
+      "text": "Jatuhkan kucing",
+      "startMs": 0.0,
+      "endMs": 642.4,
+      "startFrame": 0,
+      "endFrame": 39,
+      "words": [
+        {
+          "word": "Jatuhkan",
+          "sceneId": "scene_01_hook",
+          "startMs": 0.0,
+          "endMs": 379.9,
+          "startFrame": 0,
+          "endFrame": 23,
+          "isHighlighted": false
+        },
+        {
+          "word": "kucing",
+          "sceneId": "scene_01_hook",
+          "startMs": 379.9,
+          "endMs": 642.4,
+          "startFrame": 23,
+          "endFrame": 39,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_01_hook",
+      "text": "dalam posisi terbalik,",
+      "startMs": 642.4,
+      "endMs": 1622.8,
+      "startFrame": 39,
+      "endFrame": 97,
+      "words": [
+        {
+          "word": "dalam",
+          "sceneId": "scene_01_hook",
+          "startMs": 642.4,
+          "endMs": 891.0,
+          "startFrame": 39,
+          "endFrame": 53,
+          "isHighlighted": false
+        },
+        {
+          "word": "posisi",
+          "sceneId": "scene_01_hook",
+          "startMs": 891.0,
+          "endMs": 1242.9,
+          "startFrame": 53,
+          "endFrame": 75,
+          "isHighlighted": false
+        },
+        {
+          "word": "terbalik,",
+          "sceneId": "scene_01_hook",
+          "startMs": 1242.9,
+          "endMs": 1622.8,
+          "startFrame": 75,
+          "endFrame": 97,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_01_hook",
+      "text": "dan hanya dalam",
+      "startMs": 1856.1,
+      "endMs": 2473.5,
+      "startFrame": 111,
+      "endFrame": 148,
+      "words": [
+        {
+          "word": "dan",
+          "sceneId": "scene_01_hook",
+          "startMs": 1856.1,
+          "endMs": 1985.1,
+          "startFrame": 111,
+          "endFrame": 119,
+          "isHighlighted": false
+        },
+        {
+          "word": "hanya",
+          "sceneId": "scene_01_hook",
+          "startMs": 1985.1,
+          "endMs": 2229.3,
+          "startFrame": 119,
+          "endFrame": 134,
+          "isHighlighted": false
+        },
+        {
+          "word": "dalam",
+          "sceneId": "scene_01_hook",
+          "startMs": 2229.3,
+          "endMs": 2473.5,
+          "startFrame": 134,
+          "endFrame": 148,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_01_hook",
+      "text": "nol koma tiga detik",
+      "startMs": 2473.5,
+      "endMs": 3307.6,
+      "startFrame": 148,
+      "endFrame": 198,
+      "words": [
+        {
+          "word": "nol",
+          "sceneId": "scene_01_hook",
+          "startMs": 2473.5,
+          "endMs": 2602.5,
+          "startFrame": 148,
+          "endFrame": 156,
+          "isHighlighted": true
+        },
+        {
+          "word": "koma",
+          "sceneId": "scene_01_hook",
+          "startMs": 2602.5,
+          "endMs": 2832.9,
+          "startFrame": 156,
+          "endFrame": 170,
+          "isHighlighted": false
+        },
+        {
+          "word": "tiga",
+          "sceneId": "scene_01_hook",
+          "startMs": 2832.9,
+          "endMs": 3063.4,
+          "startFrame": 170,
+          "endFrame": 184,
+          "isHighlighted": true
+        },
+        {
+          "word": "detik",
+          "sceneId": "scene_01_hook",
+          "startMs": 3063.4,
+          "endMs": 3307.6,
+          "startFrame": 184,
+          "endFrame": 198,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_01_hook",
+      "text": "kakinya sudah siap",
+      "startMs": 3307.6,
+      "endMs": 4054.0,
+      "startFrame": 198,
+      "endFrame": 243,
+      "words": [
+        {
+          "word": "kakinya",
+          "sceneId": "scene_01_hook",
+          "startMs": 3307.6,
+          "endMs": 3667.1,
+          "startFrame": 198,
+          "endFrame": 220,
+          "isHighlighted": false
+        },
+        {
+          "word": "sudah",
+          "sceneId": "scene_01_hook",
+          "startMs": 3667.1,
+          "endMs": 3911.3,
+          "startFrame": 220,
+          "endFrame": 235,
+          "isHighlighted": false
+        },
+        {
+          "word": "siap",
+          "sceneId": "scene_01_hook",
+          "startMs": 3911.3,
+          "endMs": 4054.0,
+          "startFrame": 235,
+          "endFrame": 243,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_01_hook",
+      "text": "menginjak tanah.",
+      "startMs": 4054.0,
+      "endMs": 4685.1,
+      "startFrame": 243,
+      "endFrame": 281,
+      "words": [
+        {
+          "word": "menginjak",
+          "sceneId": "scene_01_hook",
+          "startMs": 4054.0,
+          "endMs": 4440.9,
+          "startFrame": 243,
+          "endFrame": 266,
+          "isHighlighted": true
+        },
+        {
+          "word": "tanah.",
+          "sceneId": "scene_01_hook",
+          "startMs": 4440.9,
+          "endMs": 4685.1,
+          "startFrame": 266,
+          "endFrame": 281,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "text": "Padahal di udara",
+      "startMs": 5043.3,
+      "endMs": 5783.5,
+      "startFrame": 303,
+      "endFrame": 347,
+      "words": [
+        {
+          "word": "Padahal",
+          "sceneId": "scene_02_paradox",
+          "startMs": 5043.3,
+          "endMs": 5373.1,
+          "startFrame": 303,
+          "endFrame": 322,
+          "isHighlighted": false
+        },
+        {
+          "word": "di",
+          "sceneId": "scene_02_paradox",
+          "startMs": 5373.1,
+          "endMs": 5478.9,
+          "startFrame": 322,
+          "endFrame": 329,
+          "isHighlighted": false
+        },
+        {
+          "word": "udara",
+          "sceneId": "scene_02_paradox",
+          "startMs": 5478.9,
+          "endMs": 5783.5,
+          "startFrame": 329,
+          "endFrame": 347,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "text": "tidak ada pijakan",
+      "startMs": 5783.5,
+      "endMs": 6536.4,
+      "startFrame": 347,
+      "endFrame": 392,
+      "words": [
+        {
+          "word": "tidak",
+          "sceneId": "scene_02_paradox",
+          "startMs": 5783.5,
+          "endMs": 6007.6,
+          "startFrame": 347,
+          "endFrame": 360,
+          "isHighlighted": false
+        },
+        {
+          "word": "ada",
+          "sceneId": "scene_02_paradox",
+          "startMs": 6007.6,
+          "endMs": 6206.5,
+          "startFrame": 360,
+          "endFrame": 372,
+          "isHighlighted": false
+        },
+        {
+          "word": "pijakan",
+          "sceneId": "scene_02_paradox",
+          "startMs": 6206.5,
+          "endMs": 6536.4,
+          "startFrame": 372,
+          "endFrame": 392,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "text": "untuk menolak.",
+      "startMs": 6536.4,
+      "endMs": 7090.3,
+      "startFrame": 392,
+      "endFrame": 425,
+      "words": [
+        {
+          "word": "untuk",
+          "sceneId": "scene_02_paradox",
+          "startMs": 6536.4,
+          "endMs": 6760.5,
+          "startFrame": 392,
+          "endFrame": 406,
+          "isHighlighted": false
+        },
+        {
+          "word": "menolak.",
+          "sceneId": "scene_02_paradox",
+          "startMs": 6760.5,
+          "endMs": 7090.3,
+          "startFrame": 406,
+          "endFrame": 425,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "text": "Menurut hukum fisika,",
+      "startMs": 7323.5,
+      "endMs": 8311.7,
+      "startFrame": 439,
+      "endFrame": 499,
+      "words": [
+        {
+          "word": "Menurut",
+          "sceneId": "scene_02_paradox",
+          "startMs": 7323.5,
+          "endMs": 7697.6,
+          "startFrame": 439,
+          "endFrame": 462,
+          "isHighlighted": false
+        },
+        {
+          "word": "hukum",
+          "sceneId": "scene_02_paradox",
+          "startMs": 7697.6,
+          "endMs": 7951.8,
+          "startFrame": 462,
+          "endFrame": 477,
+          "isHighlighted": false
+        },
+        {
+          "word": "fisika,",
+          "sceneId": "scene_02_paradox",
+          "startMs": 7951.8,
+          "endMs": 8311.7,
+          "startFrame": 477,
+          "endFrame": 499,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "text": "total momentum sudutnya",
+      "startMs": 8544.0,
+      "endMs": 9707.8,
+      "startFrame": 513,
+      "endFrame": 582,
+      "words": [
+        {
+          "word": "total",
+          "sceneId": "scene_02_paradox",
+          "startMs": 8544.0,
+          "endMs": 8830.9,
+          "startFrame": 513,
+          "endFrame": 530,
+          "isHighlighted": false
+        },
+        {
+          "word": "momentum",
+          "sceneId": "scene_02_paradox",
+          "startMs": 8830.9,
+          "endMs": 9269.4,
+          "startFrame": 530,
+          "endFrame": 556,
+          "isHighlighted": true
+        },
+        {
+          "word": "sudutnya",
+          "sceneId": "scene_02_paradox",
+          "startMs": 9269.4,
+          "endMs": 9707.8,
+          "startFrame": 556,
+          "endFrame": 582,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "text": "wajib tetap nol.",
+      "startMs": 9707.8,
+      "endMs": 10433.2,
+      "startFrame": 582,
+      "endFrame": 626,
+      "words": [
+        {
+          "word": "wajib",
+          "sceneId": "scene_02_paradox",
+          "startMs": 9707.8,
+          "endMs": 9994.7,
+          "startFrame": 582,
+          "endFrame": 600,
+          "isHighlighted": false
+        },
+        {
+          "word": "tetap",
+          "sceneId": "scene_02_paradox",
+          "startMs": 9994.7,
+          "endMs": 10281.7,
+          "startFrame": 600,
+          "endFrame": 617,
+          "isHighlighted": false
+        },
+        {
+          "word": "nol.",
+          "sceneId": "scene_02_paradox",
+          "startMs": 10281.7,
+          "endMs": 10433.2,
+          "startFrame": 617,
+          "endFrame": 626,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "text": "Rahasianya, tulang",
+      "startMs": 10791.3,
+      "endMs": 11929.0,
+      "startFrame": 647,
+      "endFrame": 716,
+      "words": [
+        {
+          "word": "Rahasianya,",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 10791.3,
+          "endMs": 11438.4,
+          "startFrame": 647,
+          "endFrame": 686,
+          "isHighlighted": false
+        },
+        {
+          "word": "tulang",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 11674.7,
+          "endMs": 11929.0,
+          "startFrame": 700,
+          "endFrame": 716,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "text": "belakang kucing bekerja",
+      "startMs": 11929.0,
+      "endMs": 12905.6,
+      "startFrame": 716,
+      "endFrame": 774,
+      "words": [
+        {
+          "word": "belakang",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 11929.0,
+          "endMs": 12296.9,
+          "startFrame": 716,
+          "endFrame": 738,
+          "isHighlighted": false
+        },
+        {
+          "word": "kucing",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 12296.9,
+          "endMs": 12551.2,
+          "startFrame": 738,
+          "endFrame": 753,
+          "isHighlighted": false
+        },
+        {
+          "word": "bekerja",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 12551.2,
+          "endMs": 12905.6,
+          "startFrame": 753,
+          "endFrame": 774,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "text": "seperti dua poros terpisah.",
+      "startMs": 12905.6,
+      "endMs": 13995.8,
+      "startFrame": 774,
+      "endFrame": 840,
+      "words": [
+        {
+          "word": "seperti",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 12905.6,
+          "endMs": 13260.0,
+          "startFrame": 774,
+          "endFrame": 796,
+          "isHighlighted": false
+        },
+        {
+          "word": "dua",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 13260.0,
+          "endMs": 13387.1,
+          "startFrame": 796,
+          "endFrame": 803,
+          "isHighlighted": true
+        },
+        {
+          "word": "poros",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 13387.1,
+          "endMs": 13627.9,
+          "startFrame": 803,
+          "endFrame": 818,
+          "isHighlighted": true
+        },
+        {
+          "word": "terpisah.",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 13627.9,
+          "endMs": 13995.8,
+          "startFrame": 818,
+          "endFrame": 840,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "text": "Kaki depan",
+      "startMs": 14215.2,
+      "endMs": 14684.3,
+      "startFrame": 853,
+      "endFrame": 881,
+      "words": [
+        {
+          "word": "Kaki",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 14215.2,
+          "endMs": 14442.9,
+          "startFrame": 853,
+          "endFrame": 867,
+          "isHighlighted": false
+        },
+        {
+          "word": "depan",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 14442.9,
+          "endMs": 14684.3,
+          "startFrame": 867,
+          "endFrame": 881,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "text": "ditekuk rapat",
+      "startMs": 14684.3,
+      "endMs": 15280.8,
+      "startFrame": 881,
+      "endFrame": 917,
+      "words": [
+        {
+          "word": "ditekuk",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 14684.3,
+          "endMs": 15039.5,
+          "startFrame": 881,
+          "endFrame": 902,
+          "isHighlighted": true
+        },
+        {
+          "word": "rapat",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 15039.5,
+          "endMs": 15280.8,
+          "startFrame": 902,
+          "endFrame": 917,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "text": "agar berputar cepat,",
+      "startMs": 15280.8,
+      "endMs": 16118.6,
+      "startFrame": 917,
+      "endFrame": 967,
+      "words": [
+        {
+          "word": "agar",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 15280.8,
+          "endMs": 15508.5,
+          "startFrame": 917,
+          "endFrame": 931,
+          "isHighlighted": false
+        },
+        {
+          "word": "berputar",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 15508.5,
+          "endMs": 15877.3,
+          "startFrame": 931,
+          "endFrame": 953,
+          "isHighlighted": false
+        },
+        {
+          "word": "cepat,",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 15877.3,
+          "endMs": 16118.6,
+          "startFrame": 953,
+          "endFrame": 967,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "text": "sementara kaki belakang direntangkan.",
+      "startMs": 16347.0,
+      "endMs": 17913.1,
+      "startFrame": 981,
+      "endFrame": 1075,
+      "words": [
+        {
+          "word": "sementara",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 16347.0,
+          "endMs": 16813.3,
+          "startFrame": 981,
+          "endFrame": 1009,
+          "isHighlighted": false
+        },
+        {
+          "word": "kaki",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 16813.3,
+          "endMs": 17039.7,
+          "startFrame": 1009,
+          "endFrame": 1022,
+          "isHighlighted": false
+        },
+        {
+          "word": "belakang",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 17039.7,
+          "endMs": 17406.3,
+          "startFrame": 1022,
+          "endFrame": 1044,
+          "isHighlighted": false
+        },
+        {
+          "word": "direntangkan.",
+          "sceneId": "scene_03_mechanism",
+          "startMs": 17406.3,
+          "endMs": 17913.1,
+          "startFrame": 1044,
+          "endFrame": 1075,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "text": "Lalu gantian",
+      "startMs": 18279.0,
+      "endMs": 18795.8,
+      "startFrame": 1097,
+      "endFrame": 1128,
+      "words": [
+        {
+          "word": "Lalu",
+          "sceneId": "scene_04_payoff",
+          "startMs": 18279.0,
+          "endMs": 18516.2,
+          "startFrame": 1097,
+          "endFrame": 1111,
+          "isHighlighted": false
+        },
+        {
+          "word": "gantian",
+          "sceneId": "scene_04_payoff",
+          "startMs": 18516.2,
+          "endMs": 18795.8,
+          "startFrame": 1111,
+          "endFrame": 1128,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "text": "kaki depan diluruskan",
+      "startMs": 18795.8,
+      "endMs": 19787.0,
+      "startFrame": 1128,
+      "endFrame": 1187,
+      "words": [
+        {
+          "word": "kaki",
+          "sceneId": "scene_04_payoff",
+          "startMs": 18795.8,
+          "endMs": 19033.0,
+          "startFrame": 1128,
+          "endFrame": 1142,
+          "isHighlighted": false
+        },
+        {
+          "word": "depan",
+          "sceneId": "scene_04_payoff",
+          "startMs": 19033.0,
+          "endMs": 19284.3,
+          "startFrame": 1142,
+          "endFrame": 1157,
+          "isHighlighted": false
+        },
+        {
+          "word": "diluruskan",
+          "sceneId": "scene_04_payoff",
+          "startMs": 19284.3,
+          "endMs": 19787.0,
+          "startFrame": 1157,
+          "endFrame": 1187,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "text": "untuk mengerem,",
+      "startMs": 19787.0,
+      "endMs": 20422.4,
+      "startFrame": 1187,
+      "endFrame": 1225,
+      "words": [
+        {
+          "word": "untuk",
+          "sceneId": "scene_04_payoff",
+          "startMs": 19787.0,
+          "endMs": 20038.3,
+          "startFrame": 1187,
+          "endFrame": 1202,
+          "isHighlighted": false
+        },
+        {
+          "word": "mengerem,",
+          "sceneId": "scene_04_payoff",
+          "startMs": 20038.3,
+          "endMs": 20422.4,
+          "startFrame": 1202,
+          "endFrame": 1225,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "text": "dan kaki belakang",
+      "startMs": 20652.7,
+      "endMs": 21430.5,
+      "startFrame": 1239,
+      "endFrame": 1286,
+      "words": [
+        {
+          "word": "dan",
+          "sceneId": "scene_04_payoff",
+          "startMs": 20652.7,
+          "endMs": 20789.6,
+          "startFrame": 1239,
+          "endFrame": 1247,
+          "isHighlighted": false
+        },
+        {
+          "word": "kaki",
+          "sceneId": "scene_04_payoff",
+          "startMs": 20789.6,
+          "endMs": 21034.3,
+          "startFrame": 1247,
+          "endFrame": 1262,
+          "isHighlighted": false
+        },
+        {
+          "word": "belakang",
+          "sceneId": "scene_04_payoff",
+          "startMs": 21034.3,
+          "endMs": 21430.5,
+          "startFrame": 1262,
+          "endFrame": 1286,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "text": "ditekuk menyusul.",
+      "startMs": 21430.5,
+      "endMs": 22208.3,
+      "startFrame": 1286,
+      "endFrame": 1332,
+      "words": [
+        {
+          "word": "ditekuk",
+          "sceneId": "scene_04_payoff",
+          "startMs": 21430.5,
+          "endMs": 21812.1,
+          "startFrame": 1286,
+          "endFrame": 1309,
+          "isHighlighted": true
+        },
+        {
+          "word": "menyusul.",
+          "sceneId": "scene_04_payoff",
+          "startMs": 21812.1,
+          "endMs": 22208.3,
+          "startFrame": 1309,
+          "endFrame": 1332,
+          "isHighlighted": false
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "text": "Tanpa melanggar fisika,",
+      "startMs": 22437.1,
+      "endMs": 23570.4,
+      "startFrame": 1346,
+      "endFrame": 1414,
+      "words": [
+        {
+          "word": "Tanpa",
+          "sceneId": "scene_04_payoff",
+          "startMs": 22437.1,
+          "endMs": 22720.4,
+          "startFrame": 1346,
+          "endFrame": 1363,
+          "isHighlighted": false
+        },
+        {
+          "word": "melanggar",
+          "sceneId": "scene_04_payoff",
+          "startMs": 22720.4,
+          "endMs": 23169.3,
+          "startFrame": 1363,
+          "endFrame": 1390,
+          "isHighlighted": false
+        },
+        {
+          "word": "fisika,",
+          "sceneId": "scene_04_payoff",
+          "startMs": 23169.3,
+          "endMs": 23570.4,
+          "startFrame": 1390,
+          "endFrame": 1414,
+          "isHighlighted": true
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "text": "kucing mendarat sempurna.",
+      "startMs": 23802.7,
+      "endMs": 24872.3,
+      "startFrame": 1428,
+      "endFrame": 1492,
+      "words": [
+        {
+          "word": "kucing",
+          "sceneId": "scene_04_payoff",
+          "startMs": 23802.7,
+          "endMs": 24077.4,
+          "startFrame": 1428,
+          "endFrame": 1445,
+          "isHighlighted": false
+        },
+        {
+          "word": "mendarat",
+          "sceneId": "scene_04_payoff",
+          "startMs": 24077.4,
+          "endMs": 24474.9,
+          "startFrame": 1445,
+          "endFrame": 1468,
+          "isHighlighted": false
+        },
+        {
+          "word": "sempurna.",
+          "sceneId": "scene_04_payoff",
+          "startMs": 24474.9,
+          "endMs": 24872.3,
+          "startFrame": 1468,
+          "endFrame": 1492,
+          "isHighlighted": true
+        }
+      ]
+    }
+  ],
+  "sceneTimings": [
+    {
+      "sceneId": "scene_01_hook",
+      "startMs": 0.0,
+      "endMs": 5043.3,
+      "startFrame": 0,
+      "endFrame": 303,
+      "durationFrames": 303
+    },
+    {
+      "sceneId": "scene_02_paradox",
+      "startMs": 5043.3,
+      "endMs": 10791.3,
+      "startFrame": 303,
+      "endFrame": 647,
+      "durationFrames": 344
+    },
+    {
+      "sceneId": "scene_03_mechanism",
+      "startMs": 10791.3,
+      "endMs": 18279.0,
+      "startFrame": 647,
+      "endFrame": 1097,
+      "durationFrames": 450
+    },
+    {
+      "sceneId": "scene_04_payoff",
+      "startMs": 18279.0,
+      "endMs": 25534.1,
+      "startFrame": 1097,
+      "endFrame": 1532,
+      "durationFrames": 435
+    }
+  ],
+  "sfxEvents": [
+    {
+      "type": "whoosh",
+      "file": "assets/global/sfx/whoosh/whoosh_fast.wav",
+      "frame": 0,
+      "volume": 0.48
+    },
+    {
+      "type": "impact",
+      "file": "assets/global/sfx/pop/pop_clean.wav",
+      "frame": 184,
+      "volume": 0.48
+    },
+    {
+      "type": "whoosh",
+      "file": "assets/global/sfx/whoosh/whoosh_fast.wav",
+      "frame": 303,
+      "volume": 0.48
+    },
+    {
+      "type": "highlight",
+      "file": "assets/global/sfx/highlight/chime_clean.wav",
+      "frame": 617,
+      "volume": 0.48
+    },
+    {
+      "type": "whoosh",
+      "file": "assets/global/sfx/whoosh/whoosh_fast.wav",
+      "frame": 647,
+      "volume": 0.48
+    },
+    {
+      "type": "click",
+      "file": "assets/global/sfx/pop/pop_clean.wav",
+      "frame": 881,
+      "volume": 0.48
+    },
+    {
+      "type": "highlight",
+      "file": "assets/global/sfx/highlight/chime_clean.wav",
+      "frame": 953,
+      "volume": 0.48
+    },
+    {
+      "type": "click",
+      "file": "assets/global/sfx/pop/pop_clean.wav",
+      "frame": 1157,
+      "volume": 0.48
+    },
+    {
+      "type": "impact",
+      "file": "assets/global/sfx/pop/pop_clean.wav",
+      "frame": 1468,
+      "volume": 0.48
+    }
+  ],
+  "projectId": "001_cat-righting-reflex",
+  "bgm": {
+    "trackPath": "assets/global/bgm/curiosity_editorial.wav",
+    "normalVolume": 0.22,
+    "duckedVolume": 0.06
+  }
+}

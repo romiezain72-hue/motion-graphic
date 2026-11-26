@@ -1,0 +1,99 @@
+{
+  "collected_at": "2026-11-24T23:19:00+07:00",
+  "note": "Instagram serves Reel videos via encrypted/chunked MSE blob: URLs in the browser DOM, while Video Posts (/p/) and Carousels expose direct CDN URLs in meta/img tags. Full visual frames and metadata for all 7 references were captured directly into references/.",
+  "references": [
+    {
+      "id": "ref1",
+      "creator": "@motionformat",
+      "type": "reel",
+      "shortcode": "DfCYhTTErXQ",
+      "url": "https://www.instagram.com/reel/DfCYhTTErXQ/?bqrl=MXdrZHB6d3Fnc29qNw==",
+      "captured_frames": [
+        "ref1_motionformat_reel_frame1.png",
+        "ref1_motionformat_reel_frame2.png"
+      ],
+      "hook_text": "Hiu sudah berenang di laut sebelum pohon pertama tumbuh",
+      "caption": "Hiu sudah berenang di laut sebelum pohon pertama tumbuh 🦈🌳 Sisik hiu tertua berumur ±420 juta tahun, sedangkan pohon pertama baru muncul ±385 juta tahun lalu. Hiu bahkan lebih tua dari dinosaurus dan selamat dari beberapa kepunahan massal... tapi sekarang lebih dari sepertiga jenis hiu dan pari terancam punah karena ulah manusia. #faktaunik #sains #hiu #prasejarah #edukasi",
+      "style_archetype": "2D Textured Paper-Cut / Vector Infographics Explainer"
+    },
+    {
+      "id": "ref2",
+      "creator": "@motionformat",
+      "type": "video_post",
+      "shortcode": "DfB32dmM8Ot",
+      "url": "https://www.instagram.com/p/DfB32dmM8Ot/?jplx=eTNnNTh5bGE2Nnlw",
+      "captured_frames": [
+        "ref2_motionformat_post_hook.png",
+        "ref2_motionformat_post_frame1.png",
+        "ref2_motionformat_post_frame2.png"
+      ],
+      "hook_text": "Udah jadi, tapi kok kurang sreg?",
+      "style_archetype": "Prompt-Driven Editorial Story & Historical Explainer (Serif + Sans + Pill Badges)"
+    },
+    {
+      "id": "ref3",
+      "creator": "@getalgopicks",
+      "type": "reel",
+      "shortcode": "Df5ISBSn1UR",
+      "url": "https://www.instagram.com/reel/Df5ISBSn1UR/?knvt=N2FwaGZ6YmI2Zjln",
+      "captured_frames": [
+        "ref3_getalgopicks_reel.png"
+      ],
+      "hook_text": "Animated reels with Claude Code",
+      "caption": "This was all made with Claude Code and my workflow. Want the workflow? Comment ANIMATE. Every animated reel on this page was written and voiced by Claude Code. In under three weeks it went from zero to 40.4K followers and more than 3 million views, with no camera.",
+      "style_archetype": "Blueprint Grid + Editor Bounding-Box Canvas + Highlighter Typography"
+    },
+    {
+      "id": "ref4",
+      "creator": "@mimi.mosaic",
+      "type": "reel",
+      "shortcode": "Df-ng6YB3GW",
+      "url": "https://www.instagram.com/reel/Df-ng6YB3GW/?evlk=d2QydHF4Z3UwM2Zn",
+      "captured_frames": [
+        "ref4_mimimosaic_reel.png"
+      ],
+      "hook_text": "6 years of video editing and NOW i find this??? 😳",
+      "caption": "comment \"MOTION\" and ill send you the guide #editing #editingtips #motion #motionso #videoediting",
+      "style_archetype": "Curiosity-Gap FOMO Hook + Comment Automation CTA"
+    },
+    {
+      "id": "ref5",
+      "creator": "@wilingonten",
+      "type": "reel",
+      "shortcode": "Df56neQgC8b",
+      "url": "https://www.instagram.com/reel/Df56neQgC8b/?hvrq=ZWh2ZWxoODVheGp4",
+      "captured_frames": [
+        "ref5_wilingonten_reel.png"
+      ],
+      "hook_text": "JANGAN NGEDIT - PAKAI CLAUDE CODE",
+      "caption": "7 Repo Github Wajib Kamu Install Buat Edit Video di Claude Code 🤩 #belajarbarengwilingonten #claudecode #belajareditvideo #claudeai #editvideo",
+      "style_archetype": "Dark Developer UI + Terminal Header + Step Progress Pills + Contrarian Headline"
+    },
+    {
+      "id": "ref6",
+      "creator": "@ciwankcyril",
+      "type": "reel",
+      "shortcode": "Dfw5VPvRzD_",
+      "url": "https://www.instagram.com/reel/Dfw5VPvRzD_/?knvt=MTZyNG54aGl1bjgyYQ==",
+      "captured_frames": [
+        "ref6_ciwankcyril_reel.png"
+      ],
+      "hook_text": "bikin [motion graphic]",
+      "caption": "website prompt motion graphic : prompt-motion.com",
+      "style_archetype": "Floating App/Brand Sticker Card + Minimal Kinetic Subtitles"
+    },
+    {
+      "id": "ref7",
+      "creator": "@tessa.fairbrook",
+      "type": "carousel",
+      "shortcode": "Dfmq_gLG23d",
+      "url": "https://www.instagram.com/p/Dfmq_gLG23d/?img_index=5&bqrl=MWh5ZHdieDFydGd6NQ==",
+      "captured_frames": [
+        "ref7_tessafairbrook_carousel.png"
+      ],
+      "hook_text": "Awesome Claude Video Skills",
+      "caption": "Want to turn Claude into a professional video editor? These 5 GitHub projects can help you build a powerful video creation workflow.",
+      "style_archetype": "Split-Screen Showcase + Vertical Glow Accent Bar + Dark Editorial Typography"
+    }
+  ]
+}
