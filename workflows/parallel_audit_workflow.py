@@ -61,8 +61,7 @@ reviews = await parallel(
             },
             "required": ["role", "score", "strength", "upgrade_recommendation"]
         },
-        role=item["role"],
-        model="flash"
+        role=item["role"]
     )
 )
 
@@ -80,8 +79,7 @@ summary = await agent(
         "Kembalikan ringkasan singkat hasil sintesis."
     ),
     schema={"type": "string"},
-    role="Lead Hub Synthesizer",
-    model="flash"
+    role="Lead Hub Synthesizer"
 )
 
 log(f"Sintesis selesai: {summary}")

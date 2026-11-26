@@ -28,14 +28,14 @@ CORE_ROLE_CHATS: Dict[str, Dict[str, str]] = {
     "4d37ca91": {
         "name": "brainstorming",
         "owns": "hub/BRAINSTORM.md",
-        "reads": "hub/RESULT.md",
-        "role": "Otak Kreatif, Riset Topik & Evaluasi Hasil",
+        "reads": "hub/RESULT.md & hub/STYLE_LAB.md",
+        "role": "Otak Kreatif, Riset Topik & Evaluasi Hasil (WAJIB munculkan pop-up ask_question Full Otomatis vs Manual setelah mengunci konsep di hub/BRAINSTORM.md!)",
     },
     "1e1439ad": {
         "name": "prompt-generator",
         "owns": "hub/PROMPT_QUEUE.md",
-        "reads": "hub/BRAINSTORM.md & hub/RESULT.md",
-        "role": "Arsitek Spesifikasi Prompt Siap Eksekusi",
+        "reads": "hub/BRAINSTORM.md, hub/STYLE_LAB.md & hub/RESULT.md",
+        "role": "Arsitek Spesifikasi Prompt Siap Eksekusi (WAJIB munculkan pop-up ask_question Eksekusi Otomatis vs Manual setelah menulis hub/PROMPT_QUEUE.md!)",
     },
     "00b62ab0": {
         "name": "motion-graph",
